@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexbasisty
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in JavaScript, React, Node, crossfit and football
 - 🌱 I’m currently learning Node.js and Redux
 - 💞️ I’m looking to collaborate with people, who are full of passion and want to teach other people
